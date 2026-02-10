@@ -1,0 +1,11 @@
+*{
+    font-weight:bold;
+}
+
+button{
+    background-color: plum;
+}
+
+button:hover{
+    background-color: coral;
+}
